@@ -2,7 +2,7 @@
 
 This is an implementation of our paper "Effects of Pooling Operations on Prediction of Ligand Rotation-Dependent Protein-Ligand Binding in 3D Graph Convolutional Network":
 
-Yeji Kim, Jihoo Kim, Won June Kim, Eok Kyun Lee, Insung S. Choi, [Effects of Pooling Operations on Prediction of Ligand Rotation-Dependent Protein-Ligand Binding in 3D Graph Convolutional Network] (Bull. Korean Chem. Soc. 2021) (submitted)
+Yeji Kim, Jihoo Kim, Won June Kim, Eok Kyun Lee, Insung S. Choi, [Effects of Pooling Operations on Prediction of Ligand Rotation-Dependent Protein-Ligand Binding in 3D Graph Convolutional Network] (Bull. Korean Chem. Soc. 2021, 42(5), 744-747.)
 
 
 ## Requirements
@@ -15,7 +15,7 @@ Yeji Kim, Jihoo Kim, Won June Kim, Eok Kyun Lee, Insung S. Choi, [Effects of Poo
 
 ## Data
 
-* BACE dataset
+* BACE dataset for Binding-activeness classification
 
 ## Models
 
